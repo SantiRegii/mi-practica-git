@@ -1,6 +1,6 @@
 # Proyecto de Gestión de Tareas (CRUD)
 
-Este es un proyecto simple (de santi) en PHP para gestionar una lista de tareas, diseñado para la práctica de Git y GitHub.
+Este es un proyecto simple (de juan) en PHP para gestionar una lista de tareas, diseñado para la práctica de Git y GitHub.
 
 ## Requisitos
 - PHP 7.4 o superior
