@@ -3,7 +3,7 @@
 
 try {
     $db = new PDO('sqlite:' . __DIR__ . '/database.sqlite');
-    $df->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
     // Crear la tabla si no existe
     $df->exec("CREATE TABLE IF NOT EXISTS tasks (
