@@ -14,7 +14,7 @@ $tasks = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <title>Gestor de Tareas - Proyecto Colaborativo</title>
     <style>
         :root {
-            --primary: #6366f1;
+            --primary: #0079;
             --bg: #f8fafc;
             --card: #ffffff;
             --text: #1e293b;
